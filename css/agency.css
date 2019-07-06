@@ -281,7 +281,7 @@ ul.lang-icons li a:active, ul.lang-icons li a:focus, ul.lang-icons li a:hover {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -313,7 +313,7 @@ ul.lang-icons li a:active, ul.lang-icons li a:focus, ul.lang-icons li a:hover {
   margin: 0 auto;
   padding: 25px;
   text-align: center;
-  background-color: #fff;
+  background-color: #fed636;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
